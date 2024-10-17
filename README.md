@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=big" alt="big" /></a> </p>
 
-- 🔭 I’m currently working on **Urban Media App(Mobile**
+- 🔭 I’m currently working on **Urban Media App(Mobile)**
 
 - 🌱 I’m currently learning **Kotlin, Firebase, Microsoft C#**
 
 - 👯 I’m looking to collaborate on **Games**
 
-- 👨‍💻 All of my projects are available at [TBC](TBC)
+- 👨‍💻 All of my projects are available on my GitHub
 
 - 💬 Ask me about **C++, C#, React, HTML/CSS, SQL, PHP**
 
