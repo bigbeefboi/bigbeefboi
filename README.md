@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Urban Media App(Mobile)**
 
-- 🌱 I’m currently learning **Kotlin, Firebase, Microsoft C#**
+- 🌱 I’m currently learning **React Native, Supabase, Microsoft C#**
 
 - 👯 I’m looking to collaborate on **Games**
 
