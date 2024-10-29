@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Faiz</h1>
 <h3 align="center">A passionate Software developer from South Africa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=big&label=Profile%20views&color=0e75b6&style=flat" alt="big" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bigbeefboi" alt="bigbeefboi" /></a> </p>
 
 - 🔭 I’m currently working on **Urban Media App(Mobile)**
 
-- 🌱 I’m currently learning **React Native, Supabase, Microsoft C#**
+- 🌱 I’m currently learning **React Native, Supabase, Microsoft C#, Python**
 
 - 👯 I’m looking to collaborate on **Games**
 
 - 👨‍💻 All of my projects are available on my GitHub
 
-- 💬 Ask me about **C++, C#, React, HTML/CSS, SQL, PHP**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **pathanmfaiz@gmail.com**
 
-- ⚡ Fun fact **I Am a Gamer**
+- ⚡ Fun fact **I play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
