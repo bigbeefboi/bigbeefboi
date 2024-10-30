@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pathanmfaiz@gmail.com**
 
-- ⚡ Fun fact **I play guitar**
+- ⚡ Fun fact **I play games!**
 
   ## View My CV
 
