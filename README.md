@@ -21,7 +21,7 @@
 
   ## View My CV
 
-[![View My CV](https://img.shields.io/badge/View%20CV-Click%20Here-blue)](https://drive.google.com/file/d/1Ta_YhGXH7wl6GB6z3RfgqlX438IW3BwX/view?usp=sharing)
+[![View My CV](https://img.shields.io/badge/View%20CV-Click%20Here-blue)](https://drive.google.com/file/d/1JSfX1T7seSMaZYGaxKp-E9Nx34nVByMb/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
