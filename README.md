@@ -5,15 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bigbeefboi" alt="bigbeefboi" /></a> </p>
 
-- 🔭 I’m currently working on **Urban Media App(Mobile)**
+- 🔭 I’m currently working on **Marvel Character Index with Angular**
 
-- 🌱 I’m currently learning **React Native, Supabase, Microsoft C#, Python**
+- 🌱 I’m currently learning **React Native, Supabase, Microsoft C#**
 
 - 👯 I’m looking to collaborate on **Games**
 
 - 👨‍💻 All of my projects are available on my GitHub
 
-- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **pathanmfaiz@gmail.com**
 
