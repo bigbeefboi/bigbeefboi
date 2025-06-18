@@ -1,22 +1,18 @@
 <h1 align="center">Hi 👋, I'm Faiz</h1>
-<h3 align="center">A passionate Software developer from South Africa</h3>
+<h3 align="center">Software developer from South Africa</h3>
 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bigbeefboi" alt="bigbeefboi" /></a> </p>
 
-- 🔭 I’m currently working on **Marvel Character Index with Angular**
+- 🔭 I’m currently working on a **Personal Finance Manager with Angular**
 
-- 🌱 I’m currently learning **React Native, Supabase, Microsoft C#**
+- 🌱 I’m currently learning **Angular, Microsoft C#**
 
-- 👯 I’m looking to collaborate on **Games**
-
-- 👨‍💻 All of my projects are available on my GitHub
-
+- 👯 I’m looking to collaborate on **Anything**
 
 - 📫 How to reach me **pathanmfaiz@gmail.com**
 
-- ⚡ Fun fact **I play games!**
 
   ## View My CV
 
